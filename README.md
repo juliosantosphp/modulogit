@@ -21,3 +21,10 @@ git reset --hard ou soft + id(hash)
 
 git branch teste - criar novo branch
 git checkout teste - troca de branch
+
+
+git diff  - verificando alteração no arquivo
+git diff --name-only
+
+
+git checkout HEAD -- novodoarquivo.tct  -- voltar a versão anterior
