@@ -28,3 +28,17 @@ git diff --name-only
 
 
 git checkout HEAD -- novodoarquivo.tct  -- voltar a versão anterior
+
+
+criando repositorio no gitHub - new - nome do repositorio - descrição - public ou privada
+
+no git bash - criar chaves publica e privada - ssh-keygen -t rsa -b 4098 -C "jcstecinfo@gmail.com"
+
+entrar no repositorio e copiar a linha git remote add origin https://github.com/juliosantosphp/modulogit.git
+
+fetch puxa para o computador local
+push envia conteudo local para servidor remoto
+
+git push -u origin
+
+C588-B610
