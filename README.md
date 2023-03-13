@@ -17,5 +17,7 @@ meu primeiro sistema no git
 
 
 git branch
-git reset --hard ou soft + id(hash)
+git reset --hard ou soft + id(hash) 
 
+git branch teste - criar novo branch
+git checkout teste - troca de branch
